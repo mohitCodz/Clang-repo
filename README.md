@@ -7,4 +7,4 @@
 - C program to find the **Factors** of the enterd number
 - C Program to find sum of all **Even Numbers**
 - C program to find even digits till 100
-- C program to find total
+- C program to find total numbers in entered number
