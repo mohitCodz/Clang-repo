@@ -8,3 +8,4 @@
 - C Program to find sum of all **Even Numbers**
 - C program to find even digits till 100
 - C program to find total numbers in entered number
+- C program to calculate bill
