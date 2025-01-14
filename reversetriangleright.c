@@ -1,3 +1,9 @@
+/*
+
+ C program to print reverse triangle 
+ 
+ */
+
 #include <stdio.h>
 
 int main()
