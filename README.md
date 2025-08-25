@@ -9,3 +9,6 @@
 - C program to find **Even Digits** till 100
 - C program to find **Total Numbers** in entered number
 - C program to calculate **Electricity Bill**
+## Pointers
+- Referencing
+- De-Referencing
