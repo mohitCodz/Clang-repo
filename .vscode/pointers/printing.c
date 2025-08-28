@@ -5,7 +5,7 @@ int main()
     int *a;
     a = &arr;
     printf("%d\n", a);
-    printf("%d\n", &a);
+    printf("%d\n", &arr);
     printf("%d\n", *a);
     printf("%d\n", arr[0]);
     printf("%d\n", a+1);
